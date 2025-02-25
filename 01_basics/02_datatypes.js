@@ -8,7 +8,7 @@ console.log(3+3)
 //bigint
 //string =>""
 //boolean => true/false
-//null=>standalone value
+//null=>standalone values
 //undefined =>
 //symbol =>unique
 
