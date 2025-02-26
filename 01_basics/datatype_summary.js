@@ -21,3 +21,18 @@
 // const myFunction = function(){
 //     console.log("hello world");
 // }
+
+
+//********************************************** */
+
+// Stack(primitive), Heap(non primitive)
+
+let myYoutubename= "hiteshchaiaurcode"
+
+let anothername = myYoutubename
+
+anothername = "chai aur code"
+
+console.log(anothername);
+console.log(myYoutubename);
+
